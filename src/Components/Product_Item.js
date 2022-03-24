@@ -6,7 +6,7 @@ function ProductItem(props) {
     <>
       <div className="item">
         <div className="bookTitle">
-          <h3>{props.bookTitle}</h3>
+          <h2>{props.bookTitle}</h2>
         </div>
         <div className="author">
           <h5>{props.author}</h5>

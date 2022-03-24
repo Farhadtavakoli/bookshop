@@ -12,29 +12,29 @@ function Product() {
           bookInfo="Modern JavaScript to have a greate understanding of programming"
         />
         <ProductItem
-          bookTitle="JavaScript"
-          author="Farhad"
-          bookInfo="Modern JavaScript to have a greate understanding of programming"
+          bookTitle="Express.js"
+          author="Tony Lavandson"
+          bookInfo="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nisi et mollitia, repellat, dolores magni sunt numq"
         />
         <ProductItem
-          bookTitle="JavaScript"
-          author="Farhad"
-          bookInfo="Modern JavaScript to have a greate understanding of programming"
+          bookTitle="Node.js"
+          author="Ebrahim Mirzaie"
+          bookInfo="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis n"
         />
         <ProductItem
-          bookTitle="JavaScript"
-          author="Farhad"
-          bookInfo="Modern JavaScript to have a greate understanding of programming"
+          bookTitle="SQL server"
+          author="Farhad Tavakoli"
+          bookInfo="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis n"
         />
         <ProductItem
-          bookTitle="JavaScript"
+          bookTitle="C#"
           author="Farhad"
-          bookInfo="Modern JavaScript to have a greate understanding of programming"
+          bookInfo="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis n"
         />
         <ProductItem
-          bookTitle="JavaScript"
+          bookTitle="Git"
           author="Farhad"
-          bookInfo="Modern JavaScript to have a greate understanding of programming"
+          bookInfo="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis n"
         />
       </div>
     </div>
